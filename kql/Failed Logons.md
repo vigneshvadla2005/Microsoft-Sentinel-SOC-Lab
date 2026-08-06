@@ -60,11 +60,9 @@ These details can be used to identify repeated login failures originating from t
 
 ## Evidence
 
-Screenshot:
+### Screenshot:
 
-```
-screenshots/03-KQL/01-Failed-Logons-Query.png
-```
+![Failed Logons Query](../screenshots/03-KQL/01-Failed-Logons-Query.png)
 
 
 ## Analyst Notes
