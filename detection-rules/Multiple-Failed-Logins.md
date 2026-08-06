@@ -65,9 +65,9 @@ The rule helps analysts quickly identify accounts that are experiencing repeated
 
 ## Evidence
 
-Related KQL Query:
+### Related KQL Query:
 
-![Multiple-Failed-Logins](../kql/Failed-Attempts-Greater-Than-5.md)
+[Multiple-Failed-Logins](../kql/Failed Attempts Greater Than 5.md)
 
 ### Screenshot:
 

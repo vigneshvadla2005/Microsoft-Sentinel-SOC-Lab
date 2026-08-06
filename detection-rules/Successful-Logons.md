@@ -64,7 +64,7 @@ Security analysts can quickly verify whether an account successfully authenticat
 
 ### Related KQL Query
 
-![Sucessful-Logons](../kql/Successful-Logons.md)
+[Sucessful-Logons](../kql/Successful Logons.md)
 
 ### Screenshot
 
