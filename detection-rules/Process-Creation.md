@@ -64,9 +64,9 @@ The rule provides detailed information about newly created processes including p
 
 ## Evidence
 
-Related KQL Query
+### Related KQL Query
 
-- kql/Process-Creation-4688.md
+![Process-Creation](../kql/Process-Creation-4688.md)
 
 ### Screenshot
 

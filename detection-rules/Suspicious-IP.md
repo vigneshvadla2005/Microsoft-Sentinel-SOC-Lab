@@ -68,7 +68,7 @@ Analysts can quickly identify suspicious IP addresses and investigate authentica
 
 Related KQL Query
 
-- kql/Suspicious-IP-Hunting.md
+![Suspicious-IP](../kql/Suspicious-IP-Hunting.md)
 
 ### Screenshot
 
